@@ -244,6 +244,7 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
+
 <img width="982" height="186" alt="image" src="https://github.com/user-attachments/assets/284ab281-1fca-4451-b206-50df04e9961b" />
 
 
